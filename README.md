@@ -19,6 +19,6 @@ The following languages have been used on this project:
 - HTML
 - CSS
 # Setup/Installation Requirements
-- Live link to view the project [
+- Live link to view the project [https://mercylynn.github.io/real-estate]
 # License
 Copyright (c) 2022 Moringa school
