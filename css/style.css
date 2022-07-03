@@ -307,7 +307,7 @@ justify-items: center;
 .featurecard {
     font-family: "Space Grotesk", sans-serif;
     align-items: flex-start;
-    padding: 7.94427px 15.8885px 14.2997px 38.9269px;
+    padding: 7px 15px 14.px 38px;
     width: 20rem;
     height: 16rem;
     border-radius: 0px 39.7214px;
@@ -331,10 +331,7 @@ justify-items: center;
   }
   
   .products{
-    
-    
     justify-items: center;
-   
   }
 
   
@@ -348,8 +345,7 @@ justify-items: center;
 
   }
   .producttitle p{
-
-    font-style: normal;
+  font-style: normal;
   font-weight: 400;
   font-size: 1.3rem;
   line-height: 30px;
@@ -366,7 +362,6 @@ justify-items: center;
   }
 
 .productscard {
-    font-family: "Space Grotesk", sans-serif;
     padding: 1.5rem 1.2rem;
     gap: 26.24px;
     width: 18rem;
@@ -377,7 +372,6 @@ justify-items: center;
   }
   
   .card-body h4 {
-    font-family: "Space Grotesk", sans-serif;
     font-style: normal;
     font-weight: 500;
     font-size: 1.4rem;
@@ -389,7 +383,6 @@ justify-items: center;
   }
   
   .card-body p {
-    font-family: "Space Grotesk", sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 1.2rem;
