@@ -4,14 +4,11 @@
     box-sizing: border-box; 
     font-family: "Space Grotesk", sans-serif;
 }
-#2549D3
-#0F298B, #FAFAFA
+
 body{
     background-color: #FAFAFA;
     
 }
-
-
 
 nav{
     
@@ -367,11 +364,11 @@ justify-items: center;
     width: 18rem;
     height: 25rem;
     background: #ffffff;
-    box-shadow: 12.3472px 12.3472px 24.6944px rgba(37, 73, 211, 0.05);
+    box-shadow: 12px 12px 24px rgba(37, 73, 211, 0.05);
     border-radius: 10px;
   }
   
-  .card-body h4 {
+  .cardb h4 {
     font-style: normal;
     font-weight: 500;
     font-size: 1.4rem;
@@ -382,7 +379,7 @@ justify-items: center;
     
   }
   
-  .card-body p {
+  .cardb p {
     font-style: normal;
     font-weight: 400;
     font-size: 1.2rem;
