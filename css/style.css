@@ -146,9 +146,7 @@ nav{
 
 }
 
-.testimonial-heading{
 
-}
   .testimonial-heading h3 {
   font-style: normal;
   font-weight: 700;
@@ -209,4 +207,50 @@ nav{
     display: flex;
     justify-items: center;
     justify-content: flex-end;
+  }
+
+  .footer{
+    background-color: #0f298b;
+  }
+  .mainfooter{
+    display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  color: #FAFAFA;
+  justify-content: space-evenly;
+  
+  }
+  .footer-subheading h4{
+    
+ 
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 50px;
+    margin-bottom: 1rem;
+  }
+  .footer-subheading p{
+    font-style: normal;
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 33px;
+
+  }
+
+  .footertext h4 {
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 46px;
+    margin-bottom: 2rem;
+  }
+  
+  .footertext p {
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 33px;
+    margin-bottom: 2rem;
+    
   }
