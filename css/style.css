@@ -254,3 +254,79 @@ nav{
     margin-bottom: 2rem;
     
   }
+.feature{
+
+
+justify-items: center;
+
+
+
+}
+.feature_heading{
+    text-align: center;
+}
+
+.feature_heading h3{ 
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5rem;
+    line-height: 61px;
+  
+    color: #0f298b;
+
+}
+
+.feature_heading p{ 
+    font-style: normal;
+  font-weight: 400;
+  font-size: 1.3rem;
+  line-height: 30px;
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.81);
+
+}
+.featurebtn{
+    display: flex;
+    justify-content: flex-end;
+    
+    align-items: center;
+}
+.featurecard{
+    display: flex;
+    flex-direction: column;
+   justify-content: space-between;
+
+}
+.featurecards{
+    background-color: #FAFAFA;
+    display: flex;
+    flex-direction: column;
+}
+
+.featurecard {
+    font-family: "Space Grotesk", sans-serif;
+    align-items: flex-start;
+    padding: 7.94427px 15.8885px 14.2997px 38.9269px;
+    width: 20rem;
+    height: 16rem;
+    border-radius: 0px 39.7214px;
+  }
+  
+  .featurecards .card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .card-body p:first-child {
+    font-weight: 600;
+  }
+  
+  .featuresection{
+    display: flex;
+   justify-content: space-evenly;
+    flex-direction: row;
+  }
+  
