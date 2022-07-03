@@ -1,7 +1,7 @@
 # Real-estate
 A real estate Landing page
 
-###Created By Mercy Kamene on 3-07-2022
+#created By Mercy Kamene on 3-07-2022
 #Description
 Week 1 Independent Project | Real-estate landing page at Moringa School Prep Module. 
 
@@ -10,13 +10,13 @@ Git
 Web-browser or your choice
 Github
 
-###Setup Installation
+#Setup Installation
 Copy the github repository url
 Clone to your computer
 Double click the index.html to go live/start your live server
-###Technologies Used
+#echnologies Used
 The following languages have been used on this project:
 HTML
 CSS
-###License
+#License
 Copyright (c) 2022 Moringa school
