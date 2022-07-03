@@ -67,8 +67,9 @@ nav{
     border: none;
     background-color: #0f298b;
     padding: 12px 30px;
-    border-radius: 30px;
-    color: white;
+    border-radius: 5.14468px;
+    
+    color: #FAFAFA;
     font-weight: bold;
     font-size: 15px;
     transition: .4s;
@@ -124,11 +125,25 @@ nav{
     
 }
 
-   .hero h1{
-  
-   }
+#hero .left .button{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+#hero .left .button  svg {
+    width: 50px;
+    color: #0f298b;
+     
+}
 
-   .hero p{
-   
-   }
-   
+#hero .left .button .herobutton{
+    display: inline-block;
+    background-color: #0f298b;
+    color: #FAFAFA;
+    border-radius: 5.14468px;
+  padding: 0.4rem 0.6rem;
+  text-decoration: none;
+
+}
+
+  
